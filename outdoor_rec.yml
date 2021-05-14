@@ -1,4 +1,4 @@
-name: uep239
+name: outdoor_rec
 channels:
   - conda-forge
 dependencies:
