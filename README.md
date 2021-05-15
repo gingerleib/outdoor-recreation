@@ -41,21 +41,33 @@ Then, you can download the proper environment using the YAML file provided (call
 
 The following packages are included in the environment:
 
-**python 3** standard python library. Find out more [here](https://www.python.org/)  
+**python 3** is the standard python library. Find out more [here](https://www.python.org/)  
+
 **ipython 7.10** provides a rich toolkit to make the most out of the python library. Find out more [here](https://ipython.org/)  
-**jupyter lab 3** will allow you to run this jupyter notebook. Find out more [here](https://jupyter.org/)   
-**scipy** this package will be used to calculate Euclidean Distance for our raster analysis. Find out more [here](https://www.scipy.org/) 
-**NumPy** this package will be used to reclassify our rasters. Find out more [here](https://numpy.org/)
-**Pandas** helps us maniupulate and examine tabular data. Find out more [here](https://pandas.pydata.org/)
-**Geopandas** helps us create and use geodataframes of our data. Find out more [here](https://geopandas.org/)
-**matplotlib** helps us plot and make maps. Find out more [here](https://matplotlib.org/)
-**Folium** will help us make an interactive map. Find out more [here](https://python-visualization.github.io/folium/)
-**Rasterio** will help us convert our vector maps into rasters. It will also help us make a histogram. Find out more [here](https://rasterio.readthedocs.io/en/latest/)
-**Rasterstats** allows us to calculate zonal statistics. Find out more [here](https://pythonhosted.org/rasterstats/)
-**Contextily** will allow us to add basemaps to our maps. Find out more [here](https://contextily.readthedocs.io/en/latest/)
+
+**jupyter lab 3** will allow you to run this jupyter notebook. Find out more [here](https://jupyter.org/)  
+
+**scipy** this package will be used to calculate Euclidean Distance for our raster analysis. Find out more [here](https://www.scipy.org/)  
+
+**NumPy** this package will be used to reclassify our rasters. Find out more [here](https://numpy.org/)  
+
+**Pandas** helps us maniupulate and examine tabular data. Find out more [here](https://pandas.pydata.org/)  
+
+**Geopandas** helps us create and use geodataframes of our data. Find out more [here](https://geopandas.org/)  
+
+**matplotlib** helps us plot and make maps. Find out more [here](https://matplotlib.org/)  
+
+**Folium** will help us make an interactive map. Find out more [here](https://python-visualization.github.io/folium/)  
+
+**Rasterio** will help us convert our vector maps into rasters. It will also help us make a histogram. Find out more [here](https://rasterio.readthedocs.io/en/latest/)  
+
+**Rasterstats** allows us to calculate zonal statistics. Find out more [here](https://pythonhosted.org/rasterstats/)  
+
+**Contextily** will allow us to add basemaps to our maps. Find out more [here](https://contextily.readthedocs.io/en/latest/)  
 
 
-In addition to the links provided above describing the packages, the following resources helped me when creating this notebook:  
+
+#### In addition to the links provided above describing the packages, the following resources helped me when creating this notebook:  
 
 Environments: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file  
 
