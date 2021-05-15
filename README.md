@@ -10,7 +10,7 @@
 4. Blue bike stations  
 5. Public Department of Conservation (DCR) and Recreation pools  
 
-#### Do not delete any data, as many files are used to support the shapefiles. You will see in the instructions of the notebook which specific files are used and their exact file path. 
+#### Do not delete any data, as many files are used to support the shapefiles. You will see in the instructions of the notebook which specific files are used and their exact file path. The data is already cleaned, and does not require any pre-processing. 
 
 #### Location Layers for Study Area  
 MPO Boundaries from [Mass Dot](https://geo-massdot.opendata.arcgis.com/datasets/mpo-boundaries?geometry=-75.888%2C41.541%2C-67.544%2C42.964)  
@@ -80,3 +80,5 @@ Histograms using rastrio: http://patrickgray.me/open-geo-tutorial/chapter_2_indi
 Creating interactive maps using folium: https://docs.astraea.earth/hc/en-us/articles/360049694972-How-to-Display-Vector-Data-on-a-Base-Map-Using-Folium  
 
 Information on reseting the index for zonal statistics: https://www.geeksforgeeks.org/python-pandas-dataframe-reset_index/  
+
+#### Lastly, thank you to the instructor for this course, Uku-Kaspar Uustalu, for help and guidance when creating this project. 
