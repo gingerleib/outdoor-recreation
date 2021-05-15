@@ -8,7 +8,7 @@
 2. Farmers market points  
 3. Bike trails  
 4. Blue bike stations  
-5. Public Department of Conservation and Recreation pools  
+5. Public Department of Conservation (DCR) and Recreation pools  
 
 #### Location Layers for Study Area  
 MPO Boundaries from [Mass Dot](https://geo-massdot.opendata.arcgis.com/datasets/mpo-boundaries?geometry=-75.888%2C41.541%2C-67.544%2C42.964)  
@@ -23,7 +23,7 @@ Blue bikes stations from [BlueBikes](https://www.bluebikes.com/system-data)
 
 #### Below are some important instructions for how to run this notebook  
 
-First, it it will be important to ensure that you have miniconda or anaconda installed to run this notebook.     
+First, it it will be important to ensure that you have [miniconda](https://docs.conda.io/en/latest/miniconda.html) or anaconda installed to run this notebook.     
 
 Then, you can download the proper environment using the YAML file provided (called outdoor_rec.yml). To do this:  
 
@@ -33,7 +33,9 @@ Then, you can download the proper environment using the YAML file provided (call
 
 3. Verify that the new environment was installed correctly by typing ```conda env list```  
 
-4. Launch Jupyter Lab by typing ```Jupyter Lab```  
+4. Launch Jupyter Lab by typing ```Jupyter Lab Outdoor_Rec_Analysis```  
+
+5. Alternatively for step four, you can just type ```Jupyter Lab``` and then open the notebook once jupyter launches by double clicking Outdoor_Rec_Analysis in the left hand sidebar of Jupyter Lab. 
 
 [Click here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) for more information about environments with conda.   
 
