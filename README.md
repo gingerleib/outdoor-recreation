@@ -4,11 +4,13 @@
 
 #### This is a raster analysis that will determine the best places to live in the Boston Area, given that outdoor activities are important. By using a tree canopy raster, four other indicators will be converted into rasters, resulting in using the following five indicators to complete this analysis:  
 
-1. Tree canopy cover  
+1. Tree canopy cover   
 2. Farmers market points  
 3. Bike trails  
 4. Blue bike stations  
 5. Public Department of Conservation (DCR) and Recreation pools  
+
+#### Do not delete any data, as many files are used to support the shapefiles. You will see in the instructions of the notebook which specific files are used and their exact file path. 
 
 #### Location Layers for Study Area  
 MPO Boundaries from [Mass Dot](https://geo-massdot.opendata.arcgis.com/datasets/mpo-boundaries?geometry=-75.888%2C41.541%2C-67.544%2C42.964)  
